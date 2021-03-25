@@ -1,4 +1,1 @@
-
-def interlude(query, arg: list, ...):
-    if isinstance(query, str):
-        
+system.out.print(Hello, world");
