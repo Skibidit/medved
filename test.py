@@ -1,2 +1,2 @@
-system.out.print(Hello, world");
-system.out.println("Hi world");
+system.out.print(GGGGG, Rip ");
+
